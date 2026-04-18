@@ -23,4 +23,17 @@ This project demonstrates the setup of a basic Local Area Network (LAN) using Ci
 All devices successfully communicated with each other using ICMP (ping).
 
 ## Screenshots
-(To be added)
+### Network Topology
+![Network] 
+https://github.com/NdziGeorgesBuh/basic-lan-network-packet-tracer/blob/main/network%20diagram.png
+
+
+### IP Configuration
+![IP]
+https://github.com/NdziGeorgesBuh/basic-lan-network-packet-tracer/blob/main/IP%20Config.png
+
+### Ping Test
+![Ping]
+https://github.com/NdziGeorgesBuh/basic-lan-network-packet-tracer/blob/main/Ping%20working.png
+
+
